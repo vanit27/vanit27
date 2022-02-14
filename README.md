@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vanit27
 - 👀 I’m interested in Statistics, Data analysis, Machine Learning. 
-- 🌱 I’m currently pursuing Masters of operational research and working on my ML knowledge.
+- 🌱 I’m currently pursuing Masters of operational research and have a bachelor's degree in Statistics
 - 📫 Reach to me through LinkedIn :: https://www.linkedin.com/in/vani-tiwari-40568218b/ 
 - 👩‍💻 Mail me at :: vanitiwari.du.or.23@gmail.com 
 
